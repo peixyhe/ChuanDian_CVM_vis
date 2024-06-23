@@ -51,7 +51,7 @@
 ### 波速比的体渲染动画：
 
 ![Video](https://github.com/peixyhe/ChuanDian_CVM_vis/blob/main/mov/5volumeRendreing_vpPvs.mp4)  
-[![Watch the video](https://img.youtube.com/vi/k8YrMKL6tOs/maxresdefault.jpg)](https://youtu.be/k8YrMKL6tOs)
+[![Watch the video](https://img.youtube.com/vi/WvXQ6Y7si1U/maxresdefault.jpg)](https://youtu.be/WvXQ6Y7si1U)
 
 ### 其它
 
