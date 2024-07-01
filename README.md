@@ -55,4 +55,4 @@
 
 ### 其它
 
-相关更高分辨率的动画请见：[ChuanDian_CVM_vis](https://youtu.be/k8YrMKL6tOs)
+完整版、高分辨率的动画请见：[ChuanDian_CVM_vis](https://youtu.be/tThW6xIUR_k)
